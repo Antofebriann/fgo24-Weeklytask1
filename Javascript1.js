@@ -4,7 +4,7 @@ const product = {
     price: 135000,
     isActive: true,
     images: [
-      "black.jpfg",
+      "black.jpg",
       "navy.jpg",
       "army.jpg",
       "grey.jpg",
