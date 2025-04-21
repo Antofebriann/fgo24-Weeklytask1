@@ -4,14 +4,9 @@ const product = {
     price: 135000,
     isActive: true,
     images: [
-      "black.jpg",
-      "navy.jpg",
-      "army.jpg",
-      "grey.jpg",
-      "coksu.jpg",
-      "maroon.jpg",
-      "white.jpg",
+      "black.jpg", "navy.jpg", "army.jpg", "grey.jpg", "coksu.jpg", "maroon.jpg", "white.jpg",
     ],
+    name: "kemeja pria lengan panjang slimfit kemeja kerja casual tbb39 - Hitam, M",
     description: "Kemeja pria lengan panjang  casual ",
     variants: {
       color: "black",
